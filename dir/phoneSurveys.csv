@@ -1,0 +1,4 @@
+ID,Title,Created By,Created On,Estimate,Forecast,Priority,References,Section,Section Depth,Section Description,Suite,Suite ID,Type,Updated By,Updated On
+C144476,"Verify that there is a section of """"Phone Survey"""" under application tab",Ali Hashmi,4/17/2023 1:50 AM,,,Medium,,Test Cases,0,,Applications - Phone Survey,S943,Functional,Ali Hashmi,4/17/2023 1:50 AM
+C144477,"Verify that user can view listing of active and completed surveys on main page of """"Phone survey """" section.",Ali Hashmi,4/17/2023 2:05 AM,,,Medium,,Test Cases,0,,Applications - Phone Survey,S943,Other,Ali Hashmi,4/17/2023 2:05 AM
+C144478,Verify that user can add new survey by clicking on add new survey on top left of main page of Phone survey section,Ali Hashmi,4/17/2023 2:07 AM,,,Medium,,Test Cases,0,,Applications - Phone Survey,S943,Other,Ali Hashmi,4/17/2023 2:07 AM
