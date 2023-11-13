@@ -1,5 +1,5 @@
 import openai
-openai.api_key = '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'
+openai.api_key = '<YOUR-API-KEY>'
 messages = [ {"role": "system", "content":  
               "You are a intelligent assistant."} ] 
 while True: 
